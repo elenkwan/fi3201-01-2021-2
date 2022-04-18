@@ -73,7 +73,7 @@ Baca penjelasan mengenai kode di atas pada <https://dudung.github.io/bugx/0026/>
 
 ### answer 1
 ```
-Sudah bisa dibaca
+Sudah dibaca
 ```
 
 ## question 2
@@ -81,7 +81,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 2
 ```
-![2](https://user-images.githubusercontent.com/97931036/163761935-dc6f0bdc-830e-455d-a3bd-90544f5655e8.gif)
+https://user-images.githubusercontent.com/97931036/163761935-dc6f0bdc-830e-455d-a3bd-90544f5655e8.gif
 
 
 ```
@@ -93,11 +93,9 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 3
 ```
-![3](https://user-images.githubusercontent.com/97931036/163761968-3dc2e6a1-f435-4b29-a237-e253e37f935f.gif)
+https://user-images.githubusercontent.com/97931036/163761968-3dc2e6a1-f435-4b29-a237-e253e37f935f.gif
 
 ```
-dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
 
 
 ## question 4
@@ -105,7 +103,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 
 ### answer 4
 ```
-![4](https://user-images.githubusercontent.com/97931036/163761998-648eef56-6c32-41e5-9ab3-ffbc21fd414f.gif)
+https://user-images.githubusercontent.com/97931036/163761998-648eef56-6c32-41e5-9ab3-ffbc21fd414f.gif
 
 ```
 dan hasil berkas gifnya adalah \
