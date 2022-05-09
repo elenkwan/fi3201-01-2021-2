@@ -5,7 +5,6 @@
 4. Unggah ke GitHub Anda dan berikan link pada berkas ini pada bagian jawaban.
 
 ## answer
-Tautan ke berkas Notebook Python saya adalah
-[10219039_Elen Mengtan Kwandou_work of friction.ipynb](https://github.com/elenkwan/fi3201-01-2021- 2/blob/main/assignments/05/10219039/10219039_Elen%20Mengtan%20Kwandou_work_of_friction.ipynb).
+Tautan ke berkas Notebook Python saya adalah [10219039_Elen Mengtan Kwandou_work of friction.ipynb](https://github.com/elenkwan/fi3201-01-2021-2/blob/main/assignments/05/10219039/10219039_Elen%20Mengtan%20Kwandou_work_of_friction.ipynb).
 
 
