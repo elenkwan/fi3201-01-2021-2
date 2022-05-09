@@ -6,4 +6,6 @@
 
 ## answer
 Tautan ke berkas Notebook Python saya adalah
-http://localhost:8891/notebooks/Desktop/python/Elen%20Mengtan%20Kwandou_elenkwan5%40gmail.com.ipynb
+[10219039_Elen Mengtan Kwandou_work of friction.ipynb](https://github.com/elenkwan/fi3201-01-2021- 2/blob/main/assignments/05/10219039/10219039_Elen%20Mengtan%20Kwandou_work_of_friction.ipynb).
+
+
